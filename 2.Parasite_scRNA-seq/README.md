@@ -3,6 +3,7 @@ Data were collected for protist isolated from a germ-free and conventionalized C
 
 Scripts are included for:
 1. Raw data processing
-2. Seurat cell clustering and marker gene identification.
-3. Gene set analysis
-4. Gene set enrichment
+2. Seurat cell clustering and marker gene identification
+3. KEGG pathway enrichment (EC overrepresentation)
+4. GO term enrichment
+5. Gene set analysis
