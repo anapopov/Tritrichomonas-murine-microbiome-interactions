@@ -1,4 +1,4 @@
-This directory includes scripts relating to Seurat clustering and gene expression analysis of Tritrichomonas DropSeq data. Protists were isolated from infected mouse caeca 6 weeks post infection, purified by triple cell sorting, and prepared for single cell RNA-Seq at the Princess Margaret Genomics Centre.
+This directory includes scripts relating to Seurat clustering and gene expression analysis of Tritrichomonas DropSeq data. Protists were isolated from infected mouse caeca 6 weeks post infection, purified by triple cell sorting, and prepared for single cell RNA-Seq.
 Data were collected for protist isolated from a germ-free and conventionalized C57BL/6 mouse.  
 
 Scripts are included for:
